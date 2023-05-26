@@ -1,2 +1,2 @@
 import './src/blackjack/index';
-import './styles.css';
+import './src/css/styles.css';
